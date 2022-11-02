@@ -1,0 +1,16 @@
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\bin\Debug\net6.0\Task41.exe
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\bin\Debug\net6.0\Task41.deps.json
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\bin\Debug\net6.0\Task41.runtimeconfig.json
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\bin\Debug\net6.0\Task41.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\bin\Debug\net6.0\ref\Task41.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\bin\Debug\net6.0\Task41.pdb
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\Task41.GlobalUsings.g.cs
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\Task41.csproj.AssemblyReference.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\Task41.AssemblyInfoInputs.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\Task41.AssemblyInfo.cs
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\Task41.csproj.CoreCompileInputs.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\Task41.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\ref\Task41.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\Task41.pdb
+C:\Users\Вась\Desktop\Для VS\C#\Seminar6\Task41\obj\Debug\net6.0\Task41.genruntimeconfig.cache
