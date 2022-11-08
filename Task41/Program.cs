@@ -9,17 +9,18 @@
 
 Console.Write("Введите числа через запятую ==> ");
 int[] numbers = StringToNum(Console.ReadLine());
-int sum = 0;
-for (int i = 0; i < numbers.Length; i++)
-{
+int Quantity = Convert.ToInt32()
+{  
+    int count = 0;
+    for (int i = 0; i < numbers.Length; i++)
     if (numbers[i] > 0)
     {
-        sum++;
+        count = count + 1;
     }
+    return count;
 }
 Console.WriteLine();
-Console.WriteLine($"Вы ввели {sum} значений больше 0 ");
-
+Console.WriteLine($"Вы ввели {Quantity} значений больше 0 ");
 
 int[] StringToNum(string input)
 {
