@@ -41,8 +41,3 @@ double PointY(double meaningb1, double meaningk1, double meaningb2, double meani
 double Y = Math.Round( meaningk1 * ((meaningb2 - meaningb1) / (meaningk1 - meaningk2)) + meaningb1, 3);
 return Y;
 }
-
-// double x = (-b2 + b1)/(-k1 + k2);
-// double y = k2 * x + b2;
-
-// Console.WriteLine($"Точка пересечения двух прямых в точке с координатами X: {x}, Y: {y}");
