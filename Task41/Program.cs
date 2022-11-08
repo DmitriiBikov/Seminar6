@@ -9,18 +9,22 @@
 
 Console.Write("Введите числа через запятую ==> ");
 int[] numbers = StringToNum(Console.ReadLine());
-int Quantity = Convert.ToInt32()
+// int quantity = Convert.ToInt32(Console.ReadLine());
+int Quantity(int[] arr)
 {  
     int count = 0;
-    for (int i = 0; i < numbers.Length; i++)
-    if (numbers[i] > 0)
+    for (int i = 0; i < arr.Length; i++)
     {
-        count = count + 1;
-    }
+        if (numbers [i] > 0)
+        
+            count = count + 1;
+        
+
+    }    
     return count;
 }
 Console.WriteLine();
-Console.WriteLine($"Вы ввели {Quantity} значений больше 0 ");
+Console.WriteLine($"Вы ввели {numbers} значений больше 0 ");
 
 int[] StringToNum(string input)
 {
